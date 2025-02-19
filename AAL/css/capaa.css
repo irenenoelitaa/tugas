@@ -1,0 +1,16 @@
+.heading_container {
+	display : grid;
+	grid-template-columns: 1fr;
+	overflow-x:auto;
+    max-width:100%;
+	white-space:nowrap;
+}
+
+table{
+	width:100%;
+	table-layout:fixed;
+	
+}
+
+
+	
